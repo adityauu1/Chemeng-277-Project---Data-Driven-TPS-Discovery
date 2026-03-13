@@ -1,0 +1,6 @@
+Material,Material Class,Density (kg/m^3),Thermal_Conductivity_W_mK,Heat_Capacity_J_kgK,Elastic_Modulus_Pa,CTE (1/K)
+PICA (Virgin),Carbon-Based Ablator,2.36E+02,3.05E-01,1.20E+03,1.10E+08,
+AETB-8,Silicon-Based Reusable Composites: Rigid Ceramic Tiles,1.28E+02,6.84E-02,6.28E+02,6.21E+07,
+AETB-12,Silicon-Based Reusable Composites: Rigid Ceramic Tiles,1.92E+02,,6.28E+02,1.10E+08,2.85E-06
+RCC (Reinforced Carbon-Carbon Composite),"	Carbon-Based Reusable Composites: Carbon-Carbons",1.58E+03,3.89E+00,7.12E+02,,1.31E-06
+Silica Aerogel,"	Nano-Materials/Aerogel",1.00E+02,9.90E-03,7.55E+02,1.00E+06,
