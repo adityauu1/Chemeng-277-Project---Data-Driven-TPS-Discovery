@@ -39,7 +39,7 @@ Models used:
 
 README.md
 
-Training_Data_Sheet_Thermal_Conductivity.csv
+Updated Training Data Sheet.csv
 tpsx_dataset_full.xlsx
 tpsx_materials_missing_values.csv
 
